@@ -14,6 +14,6 @@ La base de datos cuenta con la siguiente información:
 
   Tanto la Notebook como la base de datos se encuentran a continuación:
 
-- [NoteBook]()
-- [Datos]()
-- [Reporte en HTML]()
+- [NoteBook](./Regrecion_Multiple.ipynb)
+- [Datos](./NASA.csv)
+- [Reporte en HTML](./Regrecion_Multiple.HTML)
