@@ -16,4 +16,4 @@ La base de datos cuenta con la siguiente información:
 
 - [NoteBook](./Regrecion_Multiple.ipynb)
 - [Datos](./NASA.csv)
-- [Reporte en HTML](./Regrecion_Multiple.HTML)
+- [Reporte en HTML](./Regrecion_Multiple.html)
